@@ -32,3 +32,5 @@ npm-debug.log
 # Development/test databases
 db/*
 !db/.gitkeep
+
+.DS_Store
